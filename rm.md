@@ -106,7 +106,7 @@ Bonus(Conjuration)
 * Expeditious Retreat
 * Feather Fall
 * Color Spray
-* Feather Fall
+* Ray of Enfeeblement
 
 2:
 * Web
@@ -118,7 +118,7 @@ Bonus(Conjuration)
 3:
 * Melf’s Unicorn Arrow
 * Stinking Cloud
-* Summon Monster III 
+* Summon Monster III
 * Fly
 * Haste
 
@@ -217,6 +217,7 @@ lvl 7:
         <tr><td>Light Crossbow</td><td>1</td><td>8</td><td>25</td><td>8</td><td>25</td></tr>
             <tr><td>Bolts, Crossbow (10)</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
     <tr><td>Wand (Color spray)</td><td>1</td><td>-</td><td>750</td><td>-</td><td>750</td></tr>
+    <tr><td>Unicorn (token)</td><td>1</td><td>-</td><td>25</td><td>-</td><td>25</td></tr>
         <tr><td>-</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>-</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>-</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -227,7 +228,7 @@ lvl 7:
     <tr><td>-</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>-</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>-</td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>24</td><td>8956</td></tr>
+    <tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>24</td><td>8981</td></tr>
 
 </table>
 
@@ -284,6 +285,6 @@ lvl 7:
 </table>
 
 ## Gold
-* GP: 137
+* GP: 112
 * SP: 6
 * CP:7
